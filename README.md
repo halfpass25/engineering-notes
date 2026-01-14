@@ -13,7 +13,8 @@ Gli articoli possono essere utili agli studenti che vogliano migliorare il loro 
 critico, a chi opera come amministratio e subisce le conseguenze di scelte errate, al CEO
 che -letteralmente-, paga gli errori, a chi, operando nel marketing, ha costante necessità
 di eliminare "frizioni" o quanto meno, di scegliere quelle meno fastidiose, agli UI/UX designers
-che deve combattere con e contro modelli mentali rotti.
+che deve combattere con e contro modelli mentali rotti e -ultimi ma non ultimi-, i colleghi 
+sviluppatori, al di là degli stacks tecnologici con cui operano.
 
 Chiunque tu sia, benvenuto, ti auguro di trovare le letture interessanti ed utili e ti invito
 caldamente a contribuire all'ampliamento dei punti di vista esposti, con i tuoi commenti.
