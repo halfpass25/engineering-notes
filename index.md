@@ -7,4 +7,4 @@ title: "Home"
 
 Qui puoi leggere i miei articoli:
 
-- [Articolo di prova](articolo.html)
+- [Articolo di prova](articolo.md)
